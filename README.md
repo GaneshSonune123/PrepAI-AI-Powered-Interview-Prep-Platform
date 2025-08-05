@@ -319,29 +319,6 @@ git push origin feature/AmazingFeature
 # Open a Pull Request
 ```
 
----
 
-## 📄 License
-
-Distributed under the **[MIT License](LICENSE)**. See `LICENSE` for more information.
-
----
-
-## 📬 Contact
-
-**Hariom Ingle**  
-📧 Email: hariomingle2003@gmail.com  
-🔗 Project Link: [https://github.com/](https://github.com/your-repo)
-
----
-
-## 🙏 Acknowledgments
-
-- [Node.js Documentation](https://nodejs.org/)
-- [Express.js Guide](https://expressjs.com/)
-- [MongoDB Docs](https://www.mongodb.com/docs/)
-- [React Documentation](https://react.dev/)
-- [Vite Documentation](https://vitejs.dev/)
-- [Redux Toolkit](https://redux-toolkit.js.org/)
 
 
