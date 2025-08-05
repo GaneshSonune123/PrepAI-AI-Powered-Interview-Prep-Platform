@@ -105,14 +105,7 @@ Before you begin, ensure you have the following installed:
 
 ### Installation
 
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/Hariom-Ingle/Ai-Interview-Web.git
-    cd Ai-Interview-web
-    ```
-
-2.  **Install Frontend Dependencies:**
+1.  **Install Frontend Dependencies:**
 
     ```bash
     cd Ai-Interview-web  # Navigate into the frontend directory
@@ -120,7 +113,7 @@ Before you begin, ensure you have the following installed:
     # OR yarn install
     ```
 
-3.  **Install Backend Dependencies:**
+2.  **Install Backend Dependencies:**
 
     ```bash
     cd backend # Navigate into the backend directory (or wherever your backend code is)
