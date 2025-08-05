@@ -1,7 +1,5 @@
  #  PrepAI: Your AI-Powered Interview Preparation Platform
 
-![Project Demo](/Demo/Demo.gif "Optional: A nice banner for your project")
-
 ## Table of Contents
 
 -   [About the Project](#about-the-project)
